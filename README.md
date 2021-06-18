@@ -1,2 +1,2 @@
-# fantastic-slider
-Js slider
+# fantastic-cards
+Js cards
